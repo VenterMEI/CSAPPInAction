@@ -8,4 +8,10 @@ My executable environment is Ubuntu for WSL in MicrosoftStore.
 
 The compiler version is same with CSAPP: 
 
-`gcc -std=gnu11 progName.c`
+  `gcc -std=gnu11 progName.c`
+  
+3. Give name
+
+File name is with format of index_content.
+
+For example, 020103_showbyte.c means this code list is related to 'show byte' in section 2.1.3.
